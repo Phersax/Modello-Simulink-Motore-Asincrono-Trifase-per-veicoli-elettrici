@@ -1,1 +1,1 @@
-# simulink-model-of-the-electric-vehicle-with-three-phase-asynchronous-motor
+<img src="medias/riferimenti/Modello_completo.png" alt="modello_completo">
